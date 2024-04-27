@@ -1,4 +1,4 @@
 # Font-Eyedropper
-Font extraction tool that uses CNNs to detect fonts from images and GANs to generate customized font
+Font extraction tool that uses CNNs to detect fonts from images and conditional DCGANs to generate customized fonts to help facilitate creative workflows of Logo and Type designers
 
-Closed-Source Project. See available documentation and demonstrations in this repository to see how this tool operates.
+Closed-Source Project. Expected release in May 2025.
